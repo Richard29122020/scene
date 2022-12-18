@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mini Bulldozer
+* source:	https://sketchfab.com/3d-models/mini-bulldozer-ade6740a94ad4d8bb86ac80852df0dc9
+* author:	HansWurschd (https://sketchfab.com/HansWurschd)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mini Bulldozer" (https://sketchfab.com/3d-models/mini-bulldozer-ade6740a94ad4d8bb86ac80852df0dc9) by HansWurschd (https://sketchfab.com/HansWurschd) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
